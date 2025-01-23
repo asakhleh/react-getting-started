@@ -1,0 +1,25 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Ahmad Blog",
+      "author": "Ahmad Sakhleh"
+    },
+    {
+      "id": "2",
+      "title": "Second blog",
+      "author": "Jad"
+    },
+    {
+      "id": "3",
+      "title": "New Blog",
+      "author": "Eyad"
+    },
+    {
+      "id": "dae3",
+      "title": "hello from here",
+      "body": "test",
+      "author": "mario"
+    }
+  ]
+}
